@@ -1,12 +1,11 @@
-
 {
 	"title"		:	"Blue Danube Core",
 	"type"		:	"addon",
 	"tags"		:	[ "Core" ],
 	"ignore"	:
 	[
-		"*.psd",
-		"*.vcproj",
-		"*.svn*"
+		"*.md",
+		"*.git*",
+		"*.txt"
 	]
 }
