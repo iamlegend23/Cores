@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Blue Danube"
+	"version"     ""
+	"author_name" "Legend"
+	"author_url"  ""
+	"info"        "Cores"
+	"override"    "0"
+}
